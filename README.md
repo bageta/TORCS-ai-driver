@@ -10,7 +10,7 @@ Umělou inteligenci budeme implementovat pomocí konvolučních neuronových sí
 - https://is.cuni.cz/studium/dipl_st/index.php?id=a9d5c8070fc9573eb86d4dceea255639&tid=1&do=main&doo=detail&did=94242
 
 #### Udělat:
-- umet nakonfigurovat torcs aby se spustil headless s nejakou konfiguraci
+- ~~umet nakonfigurovat torcs aby se spustil headless s nejakou konfiguraci~~
 - umet to auto setnout na nejakou pozici s nejakou rychlosti a smerem
 do nejake mapy
 - zkonstruovat "percepcni pole" - 2d mrizka + visualizace pro tu neuronku
