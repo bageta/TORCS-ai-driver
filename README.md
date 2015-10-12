@@ -11,7 +11,8 @@ Umělou inteligenci budeme implementovat pomocí konvolučních neuronových sí
 
 #### Udělat:
 - ~~umet nakonfigurovat torcs aby se spustil headless s nejakou konfiguraci~~
-- umet to auto setnout na nejakou pozici s nejakou rychlosti a smerem
-do nejake mapy
+- ~~umet to auto setnout na nejakou pozici s nejakou rychlosti a smerem
+do nejake mapy~~
 - zkonstruovat "percepcni pole" - 2d mrizka + visualizace pro tu neuronku
--  vytvorit datasety pro training, datasety pro test, datasety pro realnou validaci
+- vytvorit datasety pro training, datasety pro test, datasety pro realnou validaci
+- zprovoznit nekterou z knihoven pro deeplearning a naucit se s ni pracovat
