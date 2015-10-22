@@ -15,4 +15,4 @@ Umělou inteligenci budeme implementovat pomocí konvolučních neuronových sí
 do nejake mapy~~
 - zkonstruovat "percepcni pole" - 2d mrizka + visualizace pro tu neuronku
 - vytvorit datasety pro training, datasety pro test, datasety pro realnou validaci
-- zprovoznit nekterou z knihoven pro deeplearning a naucit se s ni pracovat
+- ~~zprovoznit nekterou z knihoven pro deeplearning a naucit se s ni pracovat~~ (Theano)
